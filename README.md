@@ -10,6 +10,7 @@ Info: https://cryptostorm.org/viewtopic.php?f=47&t=8432
 #### Installation
 
 Windows: Put the .xml in C:\Users\\_yourWindowsUserProfile_\AppData\Roaming\Mozilla\Firefox\Profiles\\_yourFirefoxProfile_\searchplugins  
-(AppData\Roaming is a hidden folder, to open it press WinKey+R and type %appdata% into the popup.)
+(AppData\Roaming is a hidden folder, to open it press WinKey+R and type %appdata% into the popup.)  
+Restart Firefox
 
 Linux: You know where to put it.
