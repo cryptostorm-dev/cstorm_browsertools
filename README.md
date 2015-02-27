@@ -9,6 +9,6 @@ Info: https://cryptostorm.org/viewtopic.php?f=47&t=8432
 
 #### Installation
 
-Windows: Put the .xml in C:\Users\\[***yourWindowsUserProfile***]\AppData\Roaming\Mozilla\Firefox\Profiles\\[***yourFirefoxProfile***]\searchpluginsAppData\Roaming is a hidden folder, to open it press WinKey+R and type %appdata% in the popup.
+Windows: Put the .xml in C:\Users\\[***yourWindowsUserProfile***]\AppData\Roaming\Mozilla\Firefox\Profiles\\[***yourFirefoxProfile***]\searchplugins (AppData\Roaming is a hidden folder, to open it press WinKey+R and type %appdata% into the popup.)
 
 Linux: You know where to put it.
